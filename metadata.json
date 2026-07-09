@@ -1,0 +1,6 @@
+{
+  "name": "SGC Veterinaria",
+  "description": "Sistema de Gestión de Citas Veterinarias con catálogo de productos, registro de mascotas, panel de usuario y agendamiento interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
